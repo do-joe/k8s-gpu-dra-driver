@@ -5,3 +5,6 @@ helm-charts-k8s/*.tgz
 # Binaries
 gpu-kubeletplugin
 webhook
+
+# Auto-generated
+env.mk.tmp
